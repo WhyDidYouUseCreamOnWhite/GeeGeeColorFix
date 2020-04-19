@@ -1,5 +1,8 @@
 # GeeGeeColorFix
 
+The curent color layout is a violation of the Geneva Convention against bad design. Here is a super duper advanced piece of technology crafted with care and dedication to fix it. It is three lines of code. 
+
+
 INSTALL:
 
 1. Go to chrome://extensions
